@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_app_blocker_description">Moon Guard: send disallowed apps to the home screen based on your parent’s rules from the cloud.</string>
+</resources>
